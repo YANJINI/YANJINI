@@ -16,6 +16,9 @@
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/yeongjin-song-259788256/)
 <br />
 
+- 📝 I regularly write articles on (will be added)
+<br />
+
 - ⚡ Fun fact 
 <br />
 
