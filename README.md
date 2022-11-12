@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently learning <br />
 [Cornell Machine Learning Course](https://www.youtube.com/watch?v=MrLPzBxG95I&list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS) <br />
-[Udemy Credit Risk Modeling in Python 2022](https://www.udemy.com/course/credit-risk-modeling-in-python/) 
+[Udemy Credit Risk Modeling in Python 2022](https://www.udemy.com/course/credit-risk-modeling-in-python/) <br />
+Time Series Analysis
 <br />
 
 
