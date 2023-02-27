@@ -4,11 +4,11 @@
 - 🔭 Visit my blog, [Riskydata by Jin](https://yanjini.github.io/blog) to check my projects and study notes in neat format.
 
 - 🌱 I’m currently learning <br />
-Time-Series Analysis
-Statistical Learning Methods
-Advanced Applied Econometrics
-Financial Eocnometrics
-Advanced Optimization Methods
+Time-Series Analysis, 
+Statistical Learning Methods,
+Advanced Applied Econometrics,
+Financial Eocnometrics,
+Advanced Optimization Methods,
 Logistic Regression in depth
 <br />
 
