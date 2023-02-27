@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jin</h1>
-<h3 align="center">Data Science student interested in Credit Risk Modeling</h3>
+<h3 align="center">A graduate student in Financial Data Science in Poland.</h3>
 
-- 🔭 I’m currently working on [Gaussian Process Regression](https://github.com/YANJINI/Gaussian-Process-Regression-with-Visualization-on-A-Plane)
-<br />
+- 🔭 Visit my blog, [Riskydata by Jin](https://yanjini.github.io/blog) to check my projects and study notes. 
 
 - 🌱 I’m currently learning <br />
-[Cornell Machine Learning Course](https://www.youtube.com/watch?v=MrLPzBxG95I&list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS) <br />
-[Udemy Credit Risk Modeling in Python 2022](https://www.udemy.com/course/credit-risk-modeling-in-python/) <br />
-Time Series Analysis
+Time-Series Analysis
+Statistical Learning Methods
+Advanced Applied Econometrics
+Financial Eocnometrics
+Advanced Optimization Methods
+Logistic Regression in depth
 <br />
-
 
 - 📫 How to reach me yannnjini@gmail.com
 <br />
@@ -17,10 +18,7 @@ Time Series Analysis
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/yeongjin-song-259788256/)
 <br />
 
-- 📝 I regularly write articles on (will be added)
-<br />
-
-- ⚡ Fun fact 
+- ⚡ Fun fact I am a Korean. North or South? It depends on you :)
 <br />
 
 
