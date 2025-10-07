@@ -2,6 +2,7 @@
 <h3 align="center">A Python risk model developer in IRRBB (Interest Rate Risk in Banking Book) </h3>
 
 - 🔭 Visit my blog, [Riskydata by Jin](https://yanjini.github.io/blog) to check my projects.
+<br />
 
 - 📫 How to reach me: yannnjini@gmail.com
 <br />
